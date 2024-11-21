@@ -1,0 +1,3 @@
+21/11/2024 ;; Testing out pasting some links with thumbnails 👌 ;; #blog #microblog ;; https://gravatar.com ;; https://gravatar.com/userimage/1451855/cad326ac3759eabebc2276e1464f109b.jpeg?size=256
+21/11/2024 ;; Testing out pasting some links ;; #blog #microblog ;; https://lukaszkups.net
+21/11/2024 ;; Hello world to my new microblogging system! ;; #blog
